@@ -1,0 +1,19 @@
+header {
+    background-color: purple;
+}
+
+header nav a {
+    color: white;
+}
+
+aside {
+    background-color: pink;
+}
+
+article {
+    background-color: orange;
+}
+
+footer {
+    background-color: gray;
+}
